@@ -1,0 +1,23 @@
+{
+  "name": "wedPlanner",
+  "version": "1.0.0",
+  "description": "wedding planner web",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makanab/wedPlanner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makanab/wedPlanner/issues"
+  },
+  "homepage": "https://github.com/makanab/wedPlanner#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
